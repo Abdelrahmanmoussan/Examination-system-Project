@@ -1,0 +1,14 @@
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\obj\Debug\net9.0\Examination management system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\obj\Debug\net9.0\Examination management system.AssemblyInfoInputs.cache
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\obj\Debug\net9.0\Examination management system.AssemblyInfo.cs
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\obj\Debug\net9.0\Examination management system.csproj.CoreCompileInputs.cache
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\bin\Debug\net9.0\Examination management system.exe
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\bin\Debug\net9.0\Examination management system.deps.json
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\bin\Debug\net9.0\Examination management system.runtimeconfig.json
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\bin\Debug\net9.0\Examination management system.dll
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\bin\Debug\net9.0\Examination management system.pdb
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\obj\Debug\net9.0\Examination management system.dll
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\obj\Debug\net9.0\refint\Examination management system.dll
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\obj\Debug\net9.0\Examination management system.pdb
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\obj\Debug\net9.0\Examination management system.genruntimeconfig.cache
+D:\Solve Tasks\Solve Final Project With C#\Examination management system\obj\Debug\net9.0\ref\Examination management system.dll

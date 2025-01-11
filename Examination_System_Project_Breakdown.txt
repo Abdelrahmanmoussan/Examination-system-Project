@@ -1,0 +1,79 @@
+
+Project Breakdown: Examination System
+
+1. Define the Overall Goal of the Project
+   - Goal: Create a simple exam system with two modes:
+     - Teacher Mode: For adding questions.
+     - Student Mode: For answering questions within a set time limit.
+   - Key Features:
+     - The teacher adds different types of questions (Multiple Choice, True/False, Fill in the Blank).
+     - The student answers the questions within 30 minutes.
+     - Calculate the student's score and grade.
+
+2. Break the Project into Tasks
+   - Teacher Mode:
+     - Input questions (number of questions, type of question, question text, correct answers).
+   - Student Mode:
+     - Display questions to the student, set a time limit (30 minutes), and collect answers.
+   - Grading:
+     - Compare student answers to correct answers, calculate the score, and determine the grade.
+   - Enhance User Interface:
+     - Provide clear messages to users (e.g., time's up, exam started).
+
+3. Steps to Implement Each Part
+
+   A. Teacher Mode:
+      1. Inputs:
+         - Set the number of questions.
+         - For each question, select the question type (Multiple Choice, True/False, or Fill in the Blank).
+         - Input the question text and correct answers.
+      2. Outputs:
+         - Store questions and correct answers in a list or data structure.
+
+   B. Student Mode:
+      1. Inputs:
+         - Ensure there are questions available.
+         - Start the timer (30 minutes).
+         - Display each question and options (for multiple-choice questions).
+         - Allow the student to input answers.
+      2. Outputs:
+         - Store student answers in a data structure.
+         - After the time is up, calculate the score and grade.
+
+   C. Grading:
+      1. Inputs:
+         - Compare student answers with correct answers.
+      2. Outputs:
+         - Calculate the number of correct answers and percentage.
+         - Determine the grade (Excellent, Very Good, etc.).
+
+   D. Enhance User Interface:
+      1. Inputs:
+         - Provide clear messages (e.g., "The exam will start now," "Time’s up," etc.).
+      2. Outputs:
+         - Improve user experience by providing helpful prompts.
+
+4. Analyze the Requirements
+   - What are the inputs? Data from users: number of questions, question types, answers.
+   - What are the outputs? Display questions, results, grades, and messages.
+   - User Interaction: Ensure both teacher and student can use the system easily.
+
+5. Data Structures and Organization
+   - Question List: Represent questions using objects (MultipleChoiceQuestion, TrueFalseQuestion).
+   - Student Answers: Use a Dictionary to store answers with question indexes.
+   - Timer: Use a timer object to handle exam time, stopping after 30 minutes.
+
+6. Logic Implementation
+   - Answer Validation: Compare student answers with correct ones.
+   - Grade Calculation: Calculate the score and grade based on correct answers.
+
+7. Testing and Evaluating
+   - Test each part of the system before integrating.
+   - Test timer functionality and ensure it stops after 30 minutes.
+   - Ensure inputs are validated correctly.
+   - Verify the grading system works and displays the correct grade.
+
+8. Project Enhancements (Optional)
+   - Data Persistence: Store questions in a file or database for persistence.
+   - Randomize Questions: Display questions in random order for each student.
+   - Review Questions: Allow students to review questions and answers after the exam.
